@@ -1,5 +1,4 @@
 ### Hi, I'm Jonas
-
 I build small, local-first apps — the kind that do their work on your own device and
 don't need a server to be useful.
 
